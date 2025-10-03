@@ -1,1 +1,35 @@
+[
+  {
+    "title": "AI Workshop",
+    "category": "Workshop",
+    "date": { "$date": "2025-10-10T00:00:00Z" },
+    "seats": 50,
+    "booked": 0,
+    "description": "Hands-on session exploring Artificial Intelligence basics."
+  },
+  {
+    "title": "Cybersecurity Seminar",
+    "category": "Seminar",
+    "date": { "$date": "2025-11-01T00:00:00Z" },
+    "seats": 100,
+    "booked": 0,
+    "description": "Trends in modern cybersecurity and ethical hacking."
+  },
+  {
+    "title": "Hackathon 2025",
+    "category": "Hackathon",
+    "date": { "$date": "2025-12-15T00:00:00Z" },
+    "seats": 200,
+    "booked": 0,
+    "description": "24-hour coding hackathon to build innovative solutions."
+  },
+  {
+    "title": "Cultural Fest",
+    "category": "Cultural program",
+    "date": { "$date": "2026-01-20T00:00:00Z" },
+    "seats": 300,
+    "booked": 0,
+    "description": "Music, dance, and cultural celebrations by students."
+  }
+]
 
